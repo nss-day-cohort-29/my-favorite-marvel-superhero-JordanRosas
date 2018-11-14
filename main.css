@@ -1,6 +1,7 @@
 body{
-    background-color:#FBCA03;
+    background:#FBCA03;
     font-family:'Fira Sans', sans-serif;
+    color:#AA0505;
 }
 h1{
     text-align: center;
@@ -13,7 +14,4 @@ img{
     margin-right:auto;
     border-radius:15%;
     box-shadow:5px 5px 5px #0a9dd3;
-}
-p{
-    color:#AA0505;
 }
